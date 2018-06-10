@@ -1,1 +1,4 @@
 This is another file `newfile2`
+
+Edited! Edited!
+for(i=0; i>=0; i++){ print("infinity loop!") }
